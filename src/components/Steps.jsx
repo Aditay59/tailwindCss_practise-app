@@ -43,38 +43,3 @@ const Steps = () => {
 }
 
 export default Steps;
-
-
-// <div className='flex flex-col gap-2 items-start justify-center'>
-//                         <h4 className='flex items-center justify-center gap-2 cursor-pointer'>
-//                             <span><FaCheck className='text-slate-600'/></span> 
-//                             <span className='border-b border-black hover:border-slate-300 transition-all duration-300 ease-in-out text-nowrap'>Multiple windows</span>
-//                         </h4>
-                        
-//                         <h4 className='flex items-center justify-center gap-2 cursor-pointer'>
-//                             <span><FaCheck className='text-slate-600'/></span> 
-//                             <span className='border-b border-black hover:border-slate-300 transition-all duration-300 ease-in-out text-nowrap'>Offline support</span>
-//                         </h4>
-                        
-//                         <h4 className='flex items-center justify-center gap-2 cursor-pointer'>
-//                             <span><FaCheck className='text-slate-600'/></span>
-//                             <span className='border-b border-black hover:border-slate-300 transition-all duration-300 ease-in-out text-nowrap'> Launch on startup</span>
-//                         </h4>
-//                     </div>
-                    
-//                     <div className='flex flex-col items-start gap-2'>
-//                         <h4 className='flex items-center justify-center gap-2 cursor-pointer'>
-//                             <span><FaCheck className='text-slate-600'/></span> 
-//                             <span className='border-b border-black hover:border-slate-300 transition-all duration-300 ease-in-out text-nowrap'> Menubar/tray menus </span>
-//                         </h4>
-                        
-//                         <h4 className='flex items-center justify-center gap-2 cursor-pointer'>
-//                             <span><FaCheck className='text-slate-600'/></span> 
-//                             <span className='border-b border-black hover:border-slate-300 transition-all duration-300 ease-in-out text-nowrap'> Customisable menus</span>
-//                         </h4>
-                        
-//                         <h4 className='flex items-center justify-center gap-2 cursor-pointer'>
-//                             <span><FaCheck className='text-slate-600'/></span> 
-//                             <span className='border-b border-black hover:border-slate-300 transition-all duration-300 ease-in-out text-nowrap'> Tabs(Mac only)</span>
-//                         </h4>
-//                     </div>
